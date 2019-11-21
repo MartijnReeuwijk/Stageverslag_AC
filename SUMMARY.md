@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Inhoudsopgave](README.md)
-* [Voorwoord](untitled.md)
+* [Voorwoord](voorwoord.md)
 * [Inleiding](inleiding.md)
 * [Wat doet Active Collective?](wat-doet-active-collective.md)
 * [Kwaliteitscriteria](kwaliteitscriteria.md)
