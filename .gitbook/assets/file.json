@@ -1,0 +1,17 @@
+{
+  "__meta": {
+    "__rootUrl": "https://www.google.nl",
+    "language": "Alles over taal",
+    "generalTable": "Table met generale opties van de site"
+  },
+  "language": {
+    "__meta": {
+      "__url": "/is_dit_relevant?",
+      "placeholder": "explanation",
+      "nl": "Nederlands"
+    },
+    "placeholder": "Verander taal",
+    "nl": "Nederlands",
+    "fr": "Frans"
+  }
+}
