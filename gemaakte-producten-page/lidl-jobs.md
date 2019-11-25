@@ -112,7 +112,11 @@ De oplossing die ik heb gemaak is het maken van een `render` limit. De app laat 
 
 ![Render limiter](../.gitbook/assets/screen-shot-2019-11-13-at-11.59.01-am.png)
 
-Verder wild ik het loaden nog sneller maken door gebruik van een aantal technieken maar kan ik dit alleen nog doen als de site [server-side gerendered ](https://alligator.io/react/server-side-rendering/)was en dat was niet mogelijk.
+Verder wild ik het laden nog sneller maken door gebruik van een aantal technieken maar kan ik dit alleen nog doen als de site [server-side gerendered ](https://alligator.io/react/server-side-rendering/)was en dat was niet mogelijk.
+
+### Klant contact.
+
+Omdat de gemaakte pagina in een app werkt waar wij als developers niet bij kunnen heeft de klant zelf moeten testen of alles werkt tijden het testen / feedback heb ik met de klant gebeld en wat de problemen waren.
 
 
 

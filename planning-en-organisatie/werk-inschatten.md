@@ -40,5 +40,11 @@ Dit vormt een taken lijst die je moet maken voor het project met de geschatte ti
 
 Bij Active collective heeft slack een bot die je helpt herinneren je uren te boeken.
 
+_Sidenote: Bij de weekly standup komt er vaker voor dat niet iedereen goed zijn uren bij houd, dus misschien is het developers eigen._
+
+
+
 Productive: [https://www.productive.io/](https://www.productive.io/)
+
+
 
