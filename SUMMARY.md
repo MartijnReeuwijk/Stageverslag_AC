@@ -14,6 +14,7 @@
   * [Will en co](gemaakte-producten-page/will-en-co.md)
   * [Deloitte](gemaakte-producten-page/deloitte.md)
   * [Lidl jobs](gemaakte-producten-page/lidl-jobs.md)
+  * [Picture](gemaakte-producten-page/picture.md)
 * [High 5](high-5.md)
 * [Planning en organisatie](planning-en-organisatie/README.md)
   * [Werk inschatten en urenboeken](planning-en-organisatie/werk-inschatten.md)
