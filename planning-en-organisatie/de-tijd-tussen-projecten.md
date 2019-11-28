@@ -19,6 +19,7 @@ Wat wordt gedaan met deze tijd?
 * Framework research
   * We werken hier met Nuxt, in deze tijd wordt er meer gekeken naar de mogelijkheden
   * Research naar het werken met Graphql om de API ontwikkeling te versnellen en te verbeteren.
+* Zelf ben ik in deze tijd begonnen met een Dashboard waar we de status en health van de servers en nodes kunnen zien.
 
 #### Wat doen de designers?
 
