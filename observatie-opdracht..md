@@ -18,11 +18,15 @@ De designers maken het visual design en een huis stijl samen met wat base elemen
 
 ## Teamwork Front en Back-end
 
-Teamwork met front en back-end is redelijk simple we gebruiken Nuxt en Node deze server regelt de backend code in Javascript iets wat de frontenders hier ook kunnen waardoor we veel van de classieke server dingen zelf kunnen regelen. Wanneer er wel PHP en of een server API aan te pas moet komen hebben we hier een  software engineer voor. Hij vraagt aan de frontenders wat de er verwacht wordt van de app en maakt dit passend in de API en of PHP. Wanneer dit niet werkt wordt er meestal voor een oplossing in Nuxt gekeken.
+Teamwork met front en back-end is redelijk simple we gebruiken Nuxt en Node deze server regelt de backend code in Javascript iets wat de frontenders hier ook kunnen waardoor we veel van de klassieke server dingen zelf kunnen regelen. Wanneer er wel PHP en of een server API aan te pas moet komen hebben we hier een  software engineer voor. Hij vraagt aan de frontenders wat de er verwacht wordt van de app en maakt dit passend in de API en of PHP. Wanneer dit niet werkt wordt er meestal voor een oplossing in Nuxt gekeken.
 
 De software engineer regelt ook de servers die we hebben draaien en de aanpassingen die gedaan moeten worden voor het product.
 
+De teamwork met de back-end is minder dan ik in het begin had gedacht, dit komt door Node en Nuxt.
+
 ## Bedrijfsorganisatie en planning
 
+Een design wordt als eerste opgedeeld in stukken door de developers, tijdens het opdelen zetten ze er ook een aantal uren aan dit is de tijd inschatting dat het ongeveer gaat duren.
 
+![Organogram](.gitbook/assets/organogram-copy.png)
 
