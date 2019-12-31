@@ -69,7 +69,7 @@ Dit project heb ik gewerkt aan de Atoms / Molecules /Organisms en heb ik css ani
 
 Voor Deloitte hebben we internen testen gedaan en externe testen, hier kwam feedback uit en deze in verwerkt. Hier na is de app naar een externe tester geweest van Deloitte om de app te testen.
 
-#### Oplevering.
+
 
 
 

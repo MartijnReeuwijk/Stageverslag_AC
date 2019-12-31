@@ -14,11 +14,7 @@ Een van onze designers/video editors heeft een seminar gegeven over de waarde en
 
 De tweede dag zijn we naar Valken burg gegaan voor Team building, dit hield in high stress Jenga, team puzzels, Mikado en team tegen team lazer gamen.
 
-\[Team working photo\]
-
 Voor de Scrum workshop hebben we het proces doorgelopen hoe dit in theorie zou moeten werken in een project. Dit hebben we gedaan door een fictief project op te zetten en daar in de sprints na maken.
-
-\[Huis foto\]
 
 
 

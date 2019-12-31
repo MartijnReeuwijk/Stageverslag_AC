@@ -6,11 +6,3 @@ description: >-
 
 # Gemaakte producten page
 
-Json translator: [http://translation.activecollective.nl/](http://translation.activecollective.nl/)
-
-Will en Co: [https://www.will-co.eu/nl/](https://www.will-co.eu/nl/)
-
-Deloite:
-
-Lidl vacature app:
-

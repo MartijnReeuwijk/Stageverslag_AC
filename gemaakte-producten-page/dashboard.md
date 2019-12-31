@@ -4,7 +4,7 @@ description: >-
   krijgen wanner deze offline is.
 ---
 
-# Dashboard
+# Dashboard / Dashboard-api
 
 #### Data ping model
 
@@ -32,7 +32,7 @@ De error wordt ook opgeslagen op de database zodat we later kunnen terug kijken 
 
 #### Data end-point
 
-Dit is een data endpoint zo kan je dat van de server ophalen met een variable naam, voor nu werkt het alleen nog voor dagen maar wil ook per maand / per jaar maken.
+Dit zijn endpoints functies die je kan uitvoeren via een de API, de meeste endpoints zijn voor het verdelen en het laten zien van de data op de frontend.
 
 ```javascript
 async function serveJSON (req, res) {
@@ -47,7 +47,82 @@ async function serveJSON (req, res) {
 }
 ```
 
+```javascript
+  .get(`${process.env.PREFIX}/delete`, deleteJson.recentErrors)
+  .get(`${process.env.PREFIX}/endpoints`, endpoints)
+  .get(`${process.env.PREFIX}/recent`, serve.recent )
+  .get(`${process.env.PREFIX}/recent-error`, serve.recentError)
+  
+  .get(`${process.env.PREFIX}/:server/:site/today`, serve.today )
+  .get(`${process.env.PREFIX}/:server/:site/files`, serve.logFiles )
+  .get(`${process.env.PREFIX}/:server/:site/:logs`, serve.server)
+```
+
+#### End-point voorbeeld
+
+Met de endpoint `api/endpoints` krijg je elke server en website terug die gemonitord wordt door de server. De `"name": "no_server_name"` is een server die we monitoren met daar in de sites die op die server staan deze data kan worden opgehaald met een API `/api/no_server_name/pm2-slack/log-23-12-2019`
+
+```javascript
+{
+    "id": "c2wju7qat50hjz5dqand6pst8",
+    "name": "no_server_name",
+    "sites": [
+      {
+        "id": "2zjyq2rdvriohwr012v38vmm9",
+        "name": "pm2-slack",
+        "endpoint": "/no_server_name/pm2-slack",
+        "error": false
+      },
+      {
+        "id": "8neus8z12awsawwgz1gqvzjfo",
+        "name": "pm3-slack",
+        "endpoint": "/no_server_name/pm3-slack",
+        "error": false
+      },
+      {
+        "id": "cm2i9e7c0ya0lzk937q9tpxwj",
+        "name": "pm4-slack",
+        "endpoint": "/no_server_name/pm4-slack",
+        "error": false
+      }
+    ],
+    "error": false
+  },
+```
+
+#### Endpoint return 
+
+De endpoint die we net hebben aangeroepen `/api/no_server_name/pm2-slack/log-23-12-2019` geeft een return van de server deze zal er ongeveer zo uit zien
+
+```javascript
+[{
+    "server_name": "no_server_name",
+    "name": "pm2-slack",
+    "pid": 546,
+    "version": null,
+    "created_at": 1577106670046,
+    "status": "online",
+    "restart_time": null,
+    "unstable_restarts": 0,
+    "uptime": "23 Dec 2019 14:11:10",
+    "memory_use": 36,
+    "cpu_use": 0.2,
+    "time": "14:12:00",
+    "date": "23-12-2019"
+  }]
+```
+
+Eentje is nog niet erg interessant maar als we er 100 of duizend hebben kunnen we een activity graph maken op een dashboard en kunnen we de quality van een server beter waarnemen.
+
 #### Front-end
 
+Voor de front-end hebben we de stack van Deloitte gebruikt, dit zorgde voor kwalitatief betere development. Door het te hergebruiken van eerder gemaakte en geteste onderdelen kunnen we snel aanpassingen maken aan de codebase. Samen heb ik met Bas\(collega\) het grootste deel van de front-end gemaakt.
 
+![Dashboard data visual](../.gitbook/assets/screen-shot-2019-12-31-at-9.16.32-am.png)
+
+![CPU use server](../.gitbook/assets/screen-shot-2019-12-31-at-9.15.11-am.png)
+
+Elke van deze punten is een data object die hier boven is beschreven, samen maken ze deze grafieken.
+
+## 
 
