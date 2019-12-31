@@ -26,7 +26,9 @@ De teamwork met de back-end is minder dan ik in het begin had gedacht, dit komt 
 
 ## Bedrijfsorganisatie en planning
 
-Een design wordt als eerste opgedeeld in stukken door de developers, tijdens het opdelen zetten ze er ook een aantal uren aan dit is de tijd inschatting dat het ongeveer gaat duren.
+Een design wordt als eerste opgedeeld in stukken door de developers, tijdens het opdelen zetten ze er ook een aantal uren aan dit is de tijd inschatting dat het ongeveer gaat duren wanneer dit is gedaan wordt het door gegeven aan onze product leader. De product leader zal dan de weken in plannen met het werk wat gemaakt moet worden, dit zowel voor de designers als de developers.
+
+Zie hier het organogram.
 
 ![Organogram](.gitbook/assets/organogram-copy.png)
 
