@@ -6,8 +6,6 @@ description: >-
 
 # Dashboard / Dashboard-api
 
-#### API DOCS:[https://app.gitbook.com/@stage-verslag/s/dashboard-api/](https://app.gitbook.com/@stage-verslag/s/dashboard-api/)
-
 #### Data ping model
 
 Dit is de data die elke minuut naar de server wordt verstuurd en wordt gelogged in de database en File systems worden opgeslagen.
