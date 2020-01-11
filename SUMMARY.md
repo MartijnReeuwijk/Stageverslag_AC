@@ -17,7 +17,7 @@
   * [Deloitte](gemaakte-producten-page/deloitte.md)
   * [Lidl jobs](gemaakte-producten-page/lidl-jobs.md)
   * [Picture](gemaakte-producten-page/picture.md)
-  * [API-docs](https://app.gitbook.com/@stage-verslag/s/dashboard-api/~/drafts/-Ly9J0gvhfV9vrz3cjGA/)
+  * [API-docs](https://martijn.gitbook.io/dashboard-api/)
   * [Dashboard / Dashboard-api](gemaakte-producten-page/dashboard.md)
 * [Planning en organisatie](planning-en-organisatie/README.md)
   * [Werk inschatten en urenboeken](planning-en-organisatie/werk-inschatten.md)
