@@ -2,7 +2,7 @@
 description: Wat voor werk heb ik uitgevoerd
 ---
 
-# Uitvoering werkzaamheden
+# Uitvoerige werkzaamheden
 
 ### Producten waar ik aan heb gewerkt.
 
