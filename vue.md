@@ -4,7 +4,7 @@ description: Wat is Vue.js/Nuxt
 
 # Vue.js
 
-Voor de eerste opdracht heb ik met Vue.js/Nuxt en met Buefy gewerkt, dit zijn frameworks voor Javascript en Css. Met deze opdracht heb ik de basis concepten van een framework leren kennen en leren me om te gaan. Deze concepten zijn.
+Voor de eerste opdracht heb ik met Vue.js/Nuxt en met Buefy gewerkt, dit zijn frameworks voor Javascript en Css. Met deze opdracht heb ik de basis concepten van een framework leren kennen en geleerd ermee om te gaan. Deze concepten zijn.
 
 * Data mutation
 * Data actions
@@ -24,7 +24,7 @@ Data action heb je nodig om de data mutations aan te roepen je kan deze hergebru
 
 #### Data mutation:
 
-Data mutations zijn de Vue manier om je state aan te passen als je ook maar iets will aanpassen in de state moet dat via deze ketting van functions.
+Data mutations zijn de Vue manier om je state aan te passen als je ook maar iets wil aanpassen in de state moet dat via deze ketting van functions.
 
 ```javascript
 export const mutations = {

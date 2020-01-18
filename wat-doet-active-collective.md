@@ -4,9 +4,9 @@ description: Beschrijving wat voor werk Active collective doet
 
 # Wat doet Active Collective?
 
-Active collective is een Digital agency die doet aan data-science, design, prototyping en development. Ze doen aan opmaat gemaakte oplossingen voor een digitaal probleem.
+Active collective is een Digital agency die doet aan data-science, design, prototyping en development. Ze maken opmaat oplossingen voor  digitale vragen, probleemstukken.
 
-Ze strijden altijd voor een beteren communicatie tussen de partijen die betrokken zijn in het ontwikkelen van het product zo kunnen ze samen met elkaar de beste versie van het product opleveren. 
+Ze zorgen altijd voor een betere communicatie tussen de partijen die betrokken zijn in het ontwikkelen van het product. hierdoor kunnen ze samen met elkaar de beste versie van het product opleveren. 
 
 
 
