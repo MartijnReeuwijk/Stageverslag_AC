@@ -8,6 +8,7 @@
 * [Leerdoelen](leerdoelen.md)
 * [Observatie opdracht](observatie-opdracht..md)
 * [Reflectie stage periode](reflectie-stage-periode.md)
+* [Eind meting](eind-meting.md)
 * [Uitvoering werkzaamheden](uitvoerige-werkzaamheden.md)
 * [Vue.js](vue.md)
 * [Atoms, Molecules and Organisms](atoms-molecules-and-organisms.md)
